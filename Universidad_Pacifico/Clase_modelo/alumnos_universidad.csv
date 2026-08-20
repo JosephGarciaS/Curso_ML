@@ -1,0 +1,11 @@
+﻿ID_Alumno,Nombre,Facultad,Carrera,Edad,Genero,Promedio,Creditos_Aprobados,Pension_USD,Beca_Vigente
+202401,Carlos Reyes,Ingeniería,Sistemas,20,M,16.5,60,650.0,True
+202402,Lucía Mendoza,Negocios,Marketing,22,F,14.2,85,580.0,False
+202403,Mateo Silva,Ingeniería,Industrial,19,M,17.8,40,650.0,True
+202404,Andrea Castro,Ciencias Sociales,Psicología,21,F,15.0,70,520.0,False
+202405,Gabriel Torres,Negocios,Administración,23,M,11.8,90,580.0,False
+202406,Valeria Vargas,Ingeniería,Sistemas,18,F,18.2,25,650.0,True
+202407,Diego Morales,Ciencias Sociales,Derecho,24,M,10.5,110,520.0,False
+202408,Camila Ríos,Negocios,Finanzas,20,F,15.9,55,580.0,True
+202409,Jorge Benítez,Ingeniería,Industrial,22,M,13.0,75,650.0,False
+202410,Sofia Herrera,Ciencias Sociales,Psicología,19,F,16.0,35,520.0,True
